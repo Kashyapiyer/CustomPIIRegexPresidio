@@ -5,9 +5,12 @@
 * Generic list for Exclusion of entities while using Regex while detecting PII
 * Supports exclusion of a list of financial entities while detecting the PII information
 * Supports selection and non-selection of anonymization while formulating the results
-* 
+
+
 
 References:
+
+* Microsoft Presidio (https://microsoft.github.io/presidio/)
 
 * Caroline Valetkevitch, Reuters, Nasdaq leads Wall St higher; tech shares recover from Monday's sell-off https://finance.yahoo.com/news/p-nasdaq-futures-regain-ground-103024570.html
 
