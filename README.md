@@ -6,7 +6,7 @@
 * Supports exclusion of a list of financial entities while detecting the PII information
 * Supports selection and non-selection of anonymization while formulating the results
 
-
+Mentor : Murali Emani
 
 References:
 
